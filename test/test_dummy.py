@@ -2,7 +2,7 @@ from features.alpha import Alpha
 
 
 def test_dummy():
-    assert 1 == 1
+    assert 1 == 2
 
 
 def test_alpha():
