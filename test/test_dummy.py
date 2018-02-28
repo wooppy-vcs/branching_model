@@ -12,3 +12,6 @@ def test_alpha():
     number = 10
     a = Alpha(number)
     assert number == a.get_number()
+    
+def test_dummy_10():
+    assert 30 == 30
