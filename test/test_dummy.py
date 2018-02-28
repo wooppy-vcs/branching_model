@@ -8,6 +8,11 @@ def test_dummy():
 def test_dummy_2():
     assert 10 == 10
 
+
+def test_dummy_3():
+    assert 20 == 20
+
+
 def test_alpha():
     number = 10
     a = Alpha(number)
